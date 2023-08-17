@@ -49,6 +49,10 @@ flutter pub get
 ```bash 
 flutter run
 ```
+### 4. Run tests
+```bash 
+flutter test
+```
 
 ## Packages
 - [cached_network_image](https://pub.dev/packages/cached_network_image)
